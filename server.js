@@ -49,3 +49,7 @@ const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`Servidor rodando na porta ${PORT}`);
 });
+const WHATSAPP_NUMERO = '5500999999999';  // ← coloque o número real
+const OAB_NUMERO = 'OAB/UF nº 00.000';
+const EMAIL_CONTATO = 'contato@advocacia.com';
+const TELEFONE_DISPLAY = '(00) 99999-9999';
